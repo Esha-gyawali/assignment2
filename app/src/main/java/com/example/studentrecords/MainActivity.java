@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
     ListView lv;
     String[] names = {"Isha", "Shekhar", "Nirjal","Anuska","Bibita"};
     String[] addresses = {"Kathmandu", "Pokhara", "Lalitpur","Shantinagargate","Aloknagar"};
-    String[] phoneNumbers = {"9812345678", "9823456789", "9834567890","98122232456","476854354463"};
+    String[] phoneNumbers = {"9843256789", "9723456789", "9748768657","9841298682","9868491758"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
